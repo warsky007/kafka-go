@@ -1,7 +1,3 @@
-# kafka-go [![CircleCI](https://circleci.com/gh/segmentio/kafka-go.svg?style=shield)](https://circleci.com/gh/segmentio/kafka-go) [![Go Report Card](https://goreportcard.com/badge/github.com/segmentio/kafka-go)](https://goreportcard.com/report/github.com/segmentio/kafka-go) [![GoDoc](https://godoc.org/github.com/segmentio/kafka-go?status.svg)](https://godoc.org/github.com/segmentio/kafka-go)
-
-## Motivations
-
 We rely on both Go and Kafka a lot at Segment. Unfortunately, the state of the Go
 client libraries for Kafka at the time of this writing was not ideal. The available
 options were:
