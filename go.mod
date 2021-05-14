@@ -1,4 +1,4 @@
-module github.com/segmentio/kafka-go
+module github.com/warsky007/kafka-go
 
 go 1.13
 
